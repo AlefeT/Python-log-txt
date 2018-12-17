@@ -1,0 +1,42 @@
+
+
+
+
+- - - - - - - - - - Log iniciado! - - - - - - - - - -
+
+
+Iniciando o loop 0
+
+
+Iniciando o loop 1
+
+
+Iniciando o loop 2
+
+
+Iniciando o loop 3
+
+
+Iniciando o loop 4
+
+
+Iniciando o loop 5
+
+
+Iniciando o loop 6
+
+
+Iniciando o loop 7
+
+
+Iniciando o loop 8
+
+
+Iniciando o loop 9
+
+
+Iniciando o loop 10
+
+
+
+- - - - - - - - - - Finalizando Log. - - - - - - - - - -
